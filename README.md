@@ -2,7 +2,8 @@
 
 <p align="center">
 Data Scientist • Ontologist • AI Engineer • PhD in Computer Science  
-  
+</p>
+<p align="center">  
 💡 Passionate about transforming data into knowledge and building intelligent systems that drive real-world impact.
 </p>
 
@@ -14,9 +15,6 @@ Data Scientist • Ontologist • AI Engineer • PhD in Computer Science
 </p> -->
 
 ---
-
-## 🔥 GitHub Activity
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=wafaahs&color=ff69b4" alt="Profile Views" />
 </p>
@@ -26,6 +24,14 @@ Data Scientist • Ontologist • AI Engineer • PhD in Computer Science
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=wafaahs&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/wafaahs/wafaahs/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 
 ---
 
