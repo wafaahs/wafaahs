@@ -24,9 +24,7 @@ Data Scientist • Ontologist • AI Engineer • PhD in Computer Science
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=wafaahs&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
----
 
-## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://github.com/wafaahs/wafaahs/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
