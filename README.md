@@ -18,7 +18,7 @@ Data Scientist • Ontologist • AI Engineer • PhD in Computer Science
 ## 🔥 GitHub Activity
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=wafaahs&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=wafaahs&color=ff69b4" alt="Profile Views" />
 </p>
 
 <p align="center">
