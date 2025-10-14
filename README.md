@@ -16,6 +16,8 @@ Data Scientist • Ontologist • AI Engineer • PhD in Computer Science
 <a href="https://orcid.org/0000-0003-2344-5769"><img src="https://img.shields.io/badge/ORCID-0000--0003--2344--5769-brightgreen?style=for-the-badge&logo=orcid" /></a>
 </p> -->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wafaahs&theme=dark)](https://git.io/streak-stats)
+
 ---
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=wafaahs&color=ff69b4" alt="Profile Views" />
