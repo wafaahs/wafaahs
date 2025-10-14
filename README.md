@@ -9,6 +9,8 @@ Data Scientist • Ontologist • AI Engineer • PhD in Computer Science
 
 <!-- <p align="center">
 <a href="mailto:elhusseini.wafaa95@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" /></a>
+
+
 <a href="https://www.linkedin.com/in/wafaa-husseini/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
 <a href="https://github.com/wafaahs"><img src="https://img.shields.io/badge/GitHub-wafaahs-black?style=for-the-badge&logo=github" /></a>
 <a href="https://orcid.org/0000-0003-2344-5769"><img src="https://img.shields.io/badge/ORCID-0000--0003--2344--5769-brightgreen?style=for-the-badge&logo=orcid" /></a>
