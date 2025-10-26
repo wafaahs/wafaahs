@@ -14,9 +14,10 @@ Data Scientist • Ontologist • AI Engineer • PhD in Computer Science
 <a href="https://www.linkedin.com/in/wafaa-husseini/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
 <a href="https://github.com/wafaahs"><img src="https://img.shields.io/badge/GitHub-wafaahs-black?style=for-the-badge&logo=github" /></a>
 <a href="https://orcid.org/0000-0003-2344-5769"><img src="https://img.shields.io/badge/ORCID-0000--0003--2344--5769-brightgreen?style=for-the-badge&logo=orcid" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wafaahs&theme=dark)](https://git.io/streak-stats)
 </p> -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wafaahs&theme=dark)](https://git.io/streak-stats)
+
 
 ---
 <p align="center">
